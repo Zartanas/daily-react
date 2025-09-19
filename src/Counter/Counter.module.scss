@@ -1,0 +1,23 @@
+.Counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 400px;
+  background-color: #242424;
+
+  .Number{
+    color: greenyellow;
+  }
+
+  .Button {
+    width: 200px;
+    height: 50px;
+    color: greenyellow;
+    background-color: black;
+  }
+
+  .ButtonsMenu {
+    display: flex;
+    gap: 20px
+  }
+}
