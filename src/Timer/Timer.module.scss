@@ -1,0 +1,30 @@
+.Timer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  background-color: #242424;
+
+  input {
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    border: 1px solid black;
+    color: greenyellow;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    color: greenyellow;
+  }
+
+  button {
+    color: greenyellow;
+    background-color: black;
+    width: 200px;
+    border-radius: 20px;
+  }
+
+}
