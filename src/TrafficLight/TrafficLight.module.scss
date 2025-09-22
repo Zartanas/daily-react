@@ -1,0 +1,19 @@
+.TrafficLight {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 3px solid black;
+  padding: 20px;
+  margin-left: 500px;
+  background-color: black;
+
+  .round{
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+  }
+
+
+}
